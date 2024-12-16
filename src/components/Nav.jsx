@@ -2,7 +2,7 @@ import { Link } from "react-router";
 
 function Nav() {
   return (
-    <div>
+    <div className="nav">
       <Link to="/">
         <div>CRYPTO PRICES</div>
       </Link>
